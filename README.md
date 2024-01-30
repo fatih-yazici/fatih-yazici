@@ -4,6 +4,7 @@ Welcome to my GitHub profile.
 🚀I'm currently working on Salesforce. <br>I'm implementing and configuring Salesforce with skills in Apex, JavaScript, HTML, CSS, Integration, LWC, Aura and Visualforce.<br>I follow best practices of development, testing and deployment with a strong understanding of Agile and Scrum methodologies throughout the Software Development Life Cycle. <br>I utilize declarative tools such as Flows and other out of the box solutions provided by Salesforce, as well.
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatih-yazici) 
 
