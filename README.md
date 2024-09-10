@@ -1,7 +1,14 @@
 # 💫 About Me:
 Hi! 👋😊
 Welcome to my GitHub profile.
-🚀I'm currently working on Salesforce. <br>I'm implementing and configuring Salesforce with skills in Apex, JavaScript, HTML, CSS, Integration and LWC.<br>I follow best practices of development, testing and deployment with a strong understanding of Agile and Scrum methodologies throughout the Software Development Life Cycle. <br>I utilize declarative tools such as Flows and other out of the box solutions provided by Salesforce, as well.
+🚀I have experience in business analysis, software QA test, designing and implementing Salesforce CRM solutions.
+
+SKILLS
+Business Analysis | Jira | Confluence | Draw.io |Software Development | Agile | Scrum | Technical Documentation | Business Process Diagrams | Test Scenarios&Cases | Functional Test |
+
+Salesforce | CRM | Apex | Flow | SQL | SOQL | LWC | HTML | CSS | Javascript | Integration | APIs | Reports & Dashboards | 
+
+VS Code | Postman | Git | GitHub<br>I follow best practices of development, testing and deployment with a strong understanding of Agile and Scrum methodologies throughout the Software Development Life Cycle.
 
 
 
