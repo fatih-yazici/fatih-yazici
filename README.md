@@ -3,7 +3,7 @@ Hi! 👋😊
 Welcome to my GitHub profile.
 🚀I have experience in business analysis, software QA test, designing and implementing Salesforce CRM solutions.
 
-SKILLS
+SKILLS:
 Business Analysis | Jira | Confluence | Draw.io |Software Development | Agile | Scrum | Technical Documentation | Business Process Diagrams | Test Scenarios&Cases | Functional Test |
 
 Salesforce | CRM | Apex | Flow | SQL | SOQL | LWC | HTML | CSS | Javascript | Integration | APIs | Reports & Dashboards | 
